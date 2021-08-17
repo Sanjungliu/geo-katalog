@@ -1,0 +1,24 @@
+{
+  "Katalogs": [
+    {
+      "data": "{\"lat\": -6.2, \"lon\": 106.816666, \"bank\": 3, \"school\": 4, \"minimarket\": 5, \"population\": 32150} ",
+      "createdAt": "2021-08-16T17:46:59.209Z",
+      "updatedAt": "2021-08-16T17:46:59.209Z"
+    },
+    {
+      "data": "{\"lat\": -6.2, \"lon\": 106.897666, \"bank\": 4, \"school\": 2, \"minimarket\": 3, \"population\": 47019} ",
+      "createdAt": "2021-08-16T17:46:59.209Z",
+      "updatedAt": "2021-08-16T17:46:59.209Z"
+    },
+    {
+      "data": "{\"lat\": -6.23, \"lon\": 106.747666, \"bank\": 1, \"school\": 3, \"minimarket\": 6, \"population\": 70255} ",
+      "createdAt": "2021-08-16T17:46:59.209Z",
+      "updatedAt": "2021-08-16T17:46:59.209Z"
+    },
+    {
+      "data": "{\"lat\": -6.25, \"lon\": 106.847666, \"bank\": 2, \"school\": 5, \"minimarket\": 3, \"population\": 51378} ",
+      "createdAt": "2021-08-16T17:46:59.209Z",
+      "updatedAt": "2021-08-16T17:46:59.209Z"
+    }
+  ]
+}
